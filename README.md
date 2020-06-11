@@ -4,7 +4,7 @@
 3. Open XAMPP Control Panel or open xampp-control.exe in the xampp folder
 4. Start Apache and MySQL module
 5. Open a web brower and enter http://localhost/phpmyadmin/
-6. Select Databases tab and click on create database called "file_management_system"
+6. Select Databases tab and create database called "file_management_system"
 7. Click on the leftside tab on the file_management_system
 8. Select the Import tab and import files_table_setup and users_table_setup from the file_management folder 
 9. Open a new webpage and enter http://localhost/file_management/
