@@ -1,5 +1,5 @@
 # file_management_system
-1. Install XAMPP
+1. Install XAMPP from  https://www.apachefriends.org/download.html
 2. Locate the diretory of XAMPP and put the file_management folder inside htdocs
 3. Open XAMPP Control Panel or open xampp-control.exe in the xampp folder
 4. Start Apache and MySQL module
